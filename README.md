@@ -16,11 +16,11 @@ SpendWise is a personal budgeting application designed to help users manage thei
 
 Repository Name: SpendWise
 
-Repository Link: [Insert your public GitHub repository link]
+Repository Link: https://github.com/rhodaidriss-prog/SpendWise
 
 ## 4. Live Netlify Website
 
-Live Website: [Insert your actual Netlify website URL]
+Live Website: https://rhoda-spendwise.netlify.app/
 
 ## 5. Deployment Process Summary
 
